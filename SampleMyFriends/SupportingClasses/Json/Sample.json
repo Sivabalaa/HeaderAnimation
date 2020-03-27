@@ -1,0 +1,163 @@
+{
+    "title":"My Friends",
+    "friendsList":[
+        {
+            "id":"1",
+            "title":"Siva",
+            "distance":"3 miles away",
+            "imageHref":"http://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/American_Beaver.jpg/220px-American_Beaver.jpg"
+        },
+        {
+            "id":"2",
+            "title":"Balaa",
+            "distance":"8 miles away",
+            "imageHref":"http://images.findicons.com/files/icons/662/world_flag/128/flag_of_canada.png"
+        },
+        {
+            "id":"3",
+            "title":"Test",
+            "distance":"2 miles away",
+            "imageHref":"http://1.bp.blogspot.com/_VZVOmYVm68Q/SMkzZzkGXKI/AAAAAAAAADQ/U89miaCkcyo/s400/the_golden_compass_still.jpg"
+        },
+        {
+            "id":"4",
+            "title":"User",
+            "distance":"9 miles away",
+            "imageHref":"http://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/American_Beaver.jpg/220px-American_Beaver.jpg"
+        },
+        {
+            "id":"5",
+            "title":"Parthiban",
+            "distance":"13 miles away",
+            "imageHref":"http://static.guim.co.uk/sys-images/Music/Pix/site_furniture/2007/04/19/avril_lavigne.jpg"
+        },
+        {
+            "id":"6",
+            "title":"Mani",
+            "distance":"1 miles away",
+            "imageHref":"http://icons.iconarchive.com/icons/iconshock/alaska/256/Igloo-icon.png"
+        },
+        {
+            "id":"7",
+            "title":"Saran",
+            "distance":"5 miles away",
+            "imageHref":"http://static.guim.co.uk/sys-images/Music/Pix/site_furniture/2007/04/19/avril_lavigne.jpg"
+        },
+        {
+            "id":"8",
+            "title":"Praveen",
+            "distance":"11 miles away",
+            "imageHref":"https://www.biography.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cg_face%2Cq_auto:good%2Cw_300/MTE4MDAzNDEwNzA0NDM0NzAy/sachin-tendulkar-20710145-1-402.jpg"
+        },
+        {
+            "id":"9",
+            "title":"Sathish",
+            "distance":"3 miles away",
+            "imageHref":"http://static.guim.co.uk/sys-images/Music/Pix/site_furniture/2007/04/19/avril_lavigne.jpg"
+        },
+        {
+            "id":"10",
+            "title":"Ranjith",
+            "distance":"4 miles away",
+            "imageHref":"http://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/American_Beaver.jpg/220px-American_Beaver.jpg"
+        },
+        {
+            "id":"11",
+            "title":"Muthu",
+            "distance":"2 miles away",
+            "imageHref":"http://www.donegalhimalayans.com/images/That%20fish%20was%20this%20big.jpg"
+        },
+        {
+            "id":"12",
+            "title":"Priya",
+            "distance":"8 miles away",
+            "imageHref":"http://3.bp.blogspot.com/__mokxbTmuJM/RnWuJ6cE9cI/AAAAAAAAATw/6z3m3w9JDiU/s400/019843_31.jpg"
+        },
+        {
+            "id":"13",
+            "title":"Kumar",
+            "distance":"6 miles away",
+            "imageHref":"https://pbs.twimg.com/profile_images/1213102659126755329/lDT4zy8C.jpg"
+            
+        },
+        {
+            "id":"14",
+            "title":"Madhav",
+            "distance":"3 miles away",
+            "imageHref":"http://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/American_Beaver.jpg/220px-American_Beaver.jpg"
+        },
+        {
+            "id":"15",
+            "title":"Gowtham",
+            "distance":"8 miles away",
+            "imageHref":"http://images.findicons.com/files/icons/662/world_flag/128/flag_of_canada.png"
+        },
+        {
+            "id":"16",
+            "title":"Sabari",
+            "distance":"2 miles away",
+            "imageHref":"http://1.bp.blogspot.com/_VZVOmYVm68Q/SMkzZzkGXKI/AAAAAAAAADQ/U89miaCkcyo/s400/the_golden_compass_still.jpg"
+        },
+        {
+            "id":"17",
+            "title":"Nathan",
+            "distance":"9 miles away",
+            "imageHref":"http://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/American_Beaver.jpg/220px-American_Beaver.jpg"
+        },
+        {
+            "id":"18",
+            "title":"Dhana",
+            "distance":"13 miles away",
+            "imageHref":"http://static.guim.co.uk/sys-images/Music/Pix/site_furniture/2007/04/19/avril_lavigne.jpg"
+        },
+        {
+            "id":"19",
+            "title":"Sekar",
+            "distance":"1 miles away",
+            "imageHref":"http://icons.iconarchive.com/icons/iconshock/alaska/256/Igloo-icon.png"
+        },
+        {
+            "id":"20",
+            "title":"Sri",
+            "distance":"5 miles away",
+            "imageHref":"http://static.guim.co.uk/sys-images/Music/Pix/site_furniture/2007/04/19/avril_lavigne.jpg"
+        },
+        {
+            "id":"21",
+            "title":"Dharan",
+            "distance":"11 miles away",
+            "imageHref":"https://www.biography.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cg_face%2Cq_auto:good%2Cw_300/MTE4MDAzNDEwNzA0NDM0NzAy/sachin-tendulkar-20710145-1-402.jpg"
+        },
+        {
+            "id":"22",
+            "title":"Puli",
+            "distance":"3 miles away",
+            "imageHref":"http://static.guim.co.uk/sys-images/Music/Pix/site_furniture/2007/04/19/avril_lavigne.jpg"
+        },
+        {
+            "id":"23",
+            "title":"Santhosh",
+            "distance":"4 miles away",
+            "imageHref":"http://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/American_Beaver.jpg/220px-American_Beaver.jpg"
+        },
+        {
+            "id":"24",
+            "title":"Shanth",
+            "distance":"2 miles away",
+            "imageHref":"http://www.donegalhimalayans.com/images/That%20fish%20was%20this%20big.jpg"
+        },
+        {
+            "id":"25",
+            "title":"Kaviraj",
+            "distance":"8 miles away",
+            "imageHref":"http://3.bp.blogspot.com/__mokxbTmuJM/RnWuJ6cE9cI/AAAAAAAAATw/6z3m3w9JDiU/s400/019843_31.jpg"
+        },
+        {
+            "id":"26",
+            "title":"Prashanth",
+            "distance":"6 miles away",
+            "imageHref":"https://pbs.twimg.com/profile_images/1213102659126755329/lDT4zy8C.jpg"
+            
+        }
+    ]
+}
