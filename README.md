@@ -8,4 +8,4 @@
 
 Table View Layouts is a set of custom layouts for iOS 
 
-![MyFriends GIF](https://gitlab.com/sivabalaa/myfriendslist_sample/raw/master/HeaderAnimation.gif)
+![MyFriends GIF](https://github.com/Sivabalaa/HeaderAnimation/blob/master/HeaderAnimation.gif)
