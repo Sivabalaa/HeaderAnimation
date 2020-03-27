@@ -8,4 +8,14 @@
 
 Table View Layouts is a set of custom layouts for iOS 
 
+## Overview
+* TableView
+* Sample MVVM pattern
+* Swift 5.0 above
+* Xcode 11 above
+* Sample CoreData
+* JSON to CoreData, CoreData to Model class, Model class to View
+
+# Demo
+
 ![MyFriends GIF](https://github.com/Sivabalaa/HeaderAnimation/blob/master/HeaderAnimation.gif)
