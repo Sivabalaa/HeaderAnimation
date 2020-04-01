@@ -19,3 +19,8 @@ Table View Layouts is a set of custom layouts for iOS
 # Demo
 
 ![MyFriends GIF](https://github.com/Sivabalaa/HeaderAnimation/blob/master/HeaderAnimation.gif)
+
+License
+=================
+SliderStepRating is distributed under the MIT
+license (see https://mit-license.org).
