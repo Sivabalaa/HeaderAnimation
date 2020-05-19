@@ -22,5 +22,5 @@ Table View Layouts is a set of custom layouts for iOS
 
 License
 =================
-HeaderAnimation is distributed under the MIT
-license (see https://mit-license.org).
+HeaderAnimation is distributed under the [MIT
+license ](https://mit-license.org).
