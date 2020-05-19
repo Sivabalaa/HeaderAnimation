@@ -22,5 +22,5 @@ Table View Layouts is a set of custom layouts for iOS
 
 License
 =================
-SliderStepRating is distributed under the MIT
+HeaderAnimation is distributed under the MIT
 license (see https://mit-license.org).
